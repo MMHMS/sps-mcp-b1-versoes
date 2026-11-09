@@ -1,0 +1,16 @@
+{
+  "produto": "SPS MCP B1",
+  "versao": "2026.11.09.10",
+  "data": "2026-11-09",
+  "novidades": [
+    "Mensagem de IP recusado agora aponta para \"IAs conectadas\" (antes falava de campos que não aparecem mais no painel)",
+    "Chamados: a prévia avisa quando o texto marca [print aqui] e a imagem não foi enviada (antes a marcação sumia sem aviso)",
+    "Chamados: solicitante pelo id da lista anterior funciona; id desconhecido não vira mais \"em nome da pessoa\" sem aviso (pede o nome da empresa)",
+    "Chamados mais rápidos: a prévia já preenche sozinha versão do SAP, Feature Pack, versão do add-on (pelo componente certo), ambiente e modalidade, lidos do SAP/banco da pessoa; a IA só pergunta o resto",
+    "Gravar no SAP e ler dados pessoais funcionam também no claude.ai e em outras IAs sem a janela de confirmação: a IA mostra o resumo, pergunta \"Confirma?\" e só grava depois do \"sim\" (o MCP prende a confirmação àquela operação exata, 10 min, uso único)"
+  ],
+  "arquivo": "pacotes/SPS-MCP-B1-2026.11.09.10.zip",
+  "tamanho": 60572801,
+  "sha256": "c4508cd053c38d06f3af5f134dd7c421cb009240b4a1e1a35588b032ec5a1694",
+  "assinatura": "W4cFwtdt+vr9H4gs1uDR1TdvHtiafb4CK397dcLkVURsCN2J0N+TlUfKzgh8xHIDKQPQKRJbETC+SHeg4nvHDw=="
+}
